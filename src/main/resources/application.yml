@@ -23,4 +23,12 @@ mail:
         starttls:
           enable: true
 
+logging:
+  level:
+    root: debug
 
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+    mode: HTML5
+    cache: false

@@ -1,5 +1,6 @@
-package com.springboot.lmssystem;
+package com.springboot.lmssystem.configuration;
 
+import com.springboot.lmssystem.LmsSystemApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 

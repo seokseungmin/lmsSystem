@@ -1,4 +1,4 @@
-package com.springboot.lmssystem.config;
+package com.springboot.lmssystem.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
